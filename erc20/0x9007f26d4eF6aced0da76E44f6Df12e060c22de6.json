@@ -1,0 +1,20 @@
+{
+  "symbol": "IBI",
+  "address": "0x9007f26d4eF6aced0da76E44f6Df12e060c22de6",
+  "overview":{
+        "en": "Become a part of the bird blockchain revolution. IBI-Tokens provide real bird blockchain solutions for payment, franchising, production, retail and wholesale distribution. From Point of Sale and Loyalty Rewards, to product authenticity and validation, IBI provides real dAPPS.",
+        "zh": ""
+  },
+  "email": "info@i-bird.org",
+  "website": "http://www.i-bird.org/",
+  "state": "NORMAL",
+  "published_on": "2018-07-17",
+  "initial_price":{
+  },
+  "links": {
+    "twitter": "https://twitter.com/ibirdofficial",
+    "telegram": "https://t.me/joinchat/H7fh0ETRVnHv8QaDZfMZlg",
+    "github": "https://github.com/iBirdToken/IBI",
+    "medium": "https://medium.com/@ibirdorg"
+  }
+}
